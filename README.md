@@ -2,7 +2,12 @@
 
 Get all info by searching movie or tv series name.
 
-![Screenshot](/Screenshot/1st.png)
+<img
+src=“images/1st.png”
+raw=true
+alt=“First photo”
+style=“margin-right: 10px;”
+/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
