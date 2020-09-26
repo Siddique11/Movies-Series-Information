@@ -2,8 +2,9 @@
 
 Get all info by searching movie or tv series name.
 
-![Screenshot](images/1st.png)
-
+<img src="images/1st.png" width="250">
+<img src="images/2nd.png" width="250">
+<img src="images/3rd.png" width="250">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
