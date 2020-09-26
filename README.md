@@ -1,3 +1,9 @@
+## Simple Movie, Tv Series App
+
+Get all info by searching movie or tv series name.
+
+![Screenshot](/Screenshot/1st.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
