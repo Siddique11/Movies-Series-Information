@@ -4,7 +4,6 @@ Get all info by searching movie or tv series name.
 
 
 <img src="images/1st.png" width="450">
-<img src="images/2nd.png" width="450">
 <img src="images/3rd.png" width="450">
 
 ### Project link:  [movies-series-app](https://movies-series-app-513c6.web.app/)
