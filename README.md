@@ -2,7 +2,7 @@
 
 Get all info by searching movie or tv series name.
 
-![Screenshot](image/1st.png)
+![Screenshot](images/1st.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
